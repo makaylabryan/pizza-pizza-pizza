@@ -1,0 +1,5 @@
+Dial phone number for pizza delivery place
+Order the pizza
+Wait for pizza to be delivered
+Pay for pizza when pizza arrives
+Eat the pizza
