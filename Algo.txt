@@ -1,5 +1,8 @@
-Dial phone number for pizza delivery place
-Order the pizza
+Decide which pizza delivery place to order from
+Dial phone number for said pizza delivery place
+Order the desired pizza size and toppings
 Wait for pizza to be delivered
+Open the door when pizza arrives
+Take the pizza from the delivery person
 Pay for pizza when pizza arrives
 Eat the pizza
