@@ -7,3 +7,4 @@ Open the door when pizza arrives
 Take the pizza from the delivery person
 Pay for pizza when pizza arrives 
 Eat the pizza
+Fall into food coma
